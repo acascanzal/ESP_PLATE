@@ -1,6 +1,1 @@
-path: /home/alain/Escritorio/ia/ESP_PLATE/dataset/ESP_PLATE-yolo/LP
-train: images/train
-val: images/val
 
-names:
-  0: 0
